@@ -5,7 +5,7 @@
 #      / /_| || . ` |  \ /  | | | || . ` ||  __|
 #      \___  || |\  |  | |  \ \_/ /| |\  || |___
 #          |_/\_| \_/  \_/   \___/ \_| \_/\____/
-#     Follow me on github: https://github.com/4NY0NE                                    
+#     Follow me on github: https://github.com/4NYONEx                                    
 # ======================================================#
 
 import os
@@ -66,12 +66,12 @@ def main():
     while True:
         print("\n=== Main Menu ===")
         print("1 - Convert Image")
-        print("2 - Exit")
+        print("0 - Exit")
         choice = input("Choose an option: ").strip()
 
         if choice == "1":
             convert_image()
-        elif choice == "2":
+        elif choice == "0":
             print(Fore.CYAN + "\nExiting the program. Goodbye!" + Style.RESET_ALL)
             break
         else:
