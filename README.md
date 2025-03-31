@@ -1,4 +1,4 @@
-# Image Converter Script 🖼️🔄
+# Image Converter 🖼️🔄
 ### Description 📜
 This Python script is designed to convert images into multiple formats quickly and easily! 🚀 Whether you're working with .png, .jpeg, .gif, .bmp, or other common image formats, this tool makes it simple to switch between them with just a few commands.
 
@@ -22,7 +22,7 @@ pip install pillow colorama
 
   
 
-# Script de Conversão de Imagens 🖼️🔄
+# Conversão de Imagens 🖼️🔄
 ### Descrição 📜
 Este script Python foi projetado para converter imagens em vários formatos de maneira rápida e fácil! 🚀 Seja trabalhando com .png, .jpeg, .gif, .bmp ou outros formatos comuns de imagem, essa ferramenta facilita a conversão entre eles com apenas alguns comandos.
 
